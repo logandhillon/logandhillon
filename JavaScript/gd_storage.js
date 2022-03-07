@@ -1,10 +1,8 @@
-// Get a NodeList of all .demo elements
 const demoClasses = document.querySelectorAll('.QdYI6c');
 
-// Change the text of multiple elements with a loop
+var value = window. prompt("Set storage value: ");
 demoClasses.forEach(element => {
-  element.textContent = 'All demo classes updated.';
+  element.textContent = value;
 });
 
-// Access the first element in the NodeList
 demoClasses[0];
