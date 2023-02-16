@@ -1,0 +1,88 @@
+{
+    "$schema": "https://json-schema.org/draft/2019-09/schema",
+    "$id": "http://example.com/example.json",
+    "type": "object",
+    "default": {},
+    "title": "Mo' Food Sifting Recipe",
+    "required": [
+        "type",
+        "ingredient",
+        "result",
+        "min",
+        "max",
+        "chance"
+    ],
+    "properties": {
+        "type": {
+            "type": "string",
+            "default": "",
+            "title": "The type Schema",
+            "examples": [
+                "mo_food:sifting"
+            ]
+        },
+        "ingredient": {
+            "type": "object",
+            "default": {},
+            "title": "The ingredient Schema",
+            "required": [
+                "item"
+            ],
+            "properties": {
+                "item": {
+                    "type": "string",
+                    "default": "",
+                    "title": "The item Schema",
+                    "examples": [
+                        "minecraft:oak_leaves"
+                    ]
+                }
+            },
+            "examples": [{
+                "item": "minecraft:oak_leaves"
+            }]
+        },
+        "result": {
+            "type": "string",
+            "default": "",
+            "title": "The result Schema",
+            "examples": [
+                "minecraft:apple"
+            ]
+        },
+        "min": {
+            "type": "string",
+            "default": "",
+            "title": "The min Schema",
+            "examples": [
+                "1"
+            ]
+        },
+        "max": {
+            "type": "string",
+            "default": "",
+            "title": "The max Schema",
+            "examples": [
+                "1"
+            ]
+        },
+        "chance": {
+            "type": "string",
+            "default": "",
+            "title": "The chance Schema",
+            "examples": [
+                "0.15"
+            ]
+        }
+    },
+    "examples": [{
+        "type": "mo_food:sifting",
+        "ingredient": {
+            "item": "minecraft:oak_leaves"
+        },
+        "result": "minecraft:apple",
+        "min": "1",
+        "max": "1",
+        "chance": "0.15"
+    }]
+}
