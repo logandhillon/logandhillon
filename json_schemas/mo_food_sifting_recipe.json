@@ -1,6 +1,6 @@
 {
     "$schema": "https://json-schema.org/draft/2019-09/schema",
-    "$id": "http://example.com/example.json",
+    "$id": "https://raw.githubusercontent.com/LDMGamingYT/LDMGamingYT/main/json_schemas/mo_food_sifting_recipe.json",
     "type": "object",
     "default": {},
     "title": "Mo' Food Sifting Recipe",
@@ -16,10 +16,11 @@
         "type": {
             "type": "string",
             "default": "",
-            "title": "The type Schema",
+            "title": "The type of recipe",
             "examples": [
                 "mo_food:sifting"
-            ]
+            ],
+            "const": "mo_food:sifting"
         },
         "ingredient": {
             "type": "object",
