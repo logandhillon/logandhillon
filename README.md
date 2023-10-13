@@ -9,13 +9,22 @@ I am a full stack developer who works in a bundle of languages.
 <a href="https://www.youtube.com/@LDM_YT" target="blank"><img align="center" style="margin-right:8px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png?20220706172052" width="30"></a>
 <a href="https://discord.gg/GsUqxzj" target="blank"><img align="center" style="margin-right:8px" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" width="30"></a>
   
-### Languages  
+## Languages  
 
-![Static Badge](https://img.shields.io/badge/HTML5-red?logo=html5&logoColor=white)
+### My favourites
 
+![Java](https://img.shields.io/badge/Java-brown?logo=intellijidea&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23512BD4?logo=csharp&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-red?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-%23F05138?logo=swift&logoColor=white)
 
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+### Others
+
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C?logo=cplusplus&logoColor=white)
 
 ### Tools
 
