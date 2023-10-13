@@ -3,7 +3,7 @@ I am a full stack developer who works in a bundle of languages.
 
 📫 Email me at **ldmdev64@gmail.com**  
   
-### Socials
+## Socials
 
 <a href="https://x.com/ldmgamingyt" target="blank"><img align="center" style="margin-right:8px" src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" width="30"></a>
 <a href="https://www.youtube.com/@LDM_YT" target="blank"><img align="center" style="margin-right:8px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png?20220706172052" width="30"></a>
@@ -26,6 +26,6 @@ I am a full stack developer who works in a bundle of languages.
 ![Python](https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C?logo=cplusplus&logoColor=white)
 
-### Tools
+## Tools
 
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
