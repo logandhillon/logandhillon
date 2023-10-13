@@ -1,7 +1,8 @@
 # Hi, I'm Logan 👋
-I am a full stack developer who works in a bundle of languages. 
 
-📫 Email me at **ldmdev64@gmail.com**  
+I am a full stack developer who works in a bundle of languages.
+
+📫 Email me at **<ldmdev64@gmail.com>**
   
 ## Socials
 
@@ -28,4 +29,10 @@ I am a full stack developer who works in a bundle of languages.
 
 ## Tools
 
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
+![Intellij IDEA](https://img.shields.io/badge/Intellij_IDEA-%23fd2859?logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-blue?logo=visualstudiocode&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-blue?logo=xcode&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-black?logo=unity&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-orange?logo=blender&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717?logo=github&logoColor=white)
