@@ -8,7 +8,7 @@ I am a full stack developer who works in a bundle of languages.
 <a href="https://www.youtube.com/@LDM_YT" target="blank"><img alt="@LDM_YT on YouTube" src="https://img.shields.io/badge/@LDM__YT-red?logo=youtube&logoColor=white"></a>
 <a href="https://discord.gg/GsUqxzj" target="blank"><img alt="The LDMVerse on Discord" src="https://img.shields.io/badge/The_LDMVerse-blue?logo=discord&logoColor=white"></a>
 <a href="https://curseforge.com/members/ldmgamingyt/projects"><img alt="LDMGamingYT on CurseForge" src="https://img.shields.io/badge/LDMGamingYT-Minecraft Mods-%23F16436?logo=curseforge&logoColor=white"></a>
-<a href="mailto:ldmdev64@gmail.com"><img alt="LDMGamingYT on CurseForge" src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white"></a>
+<a href="m"><img alt="LDMGamingYT on CurseForge" src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white"></a>
   
 ## Languages  
 
@@ -36,3 +36,5 @@ I am a full stack developer who works in a bundle of languages.
 ![Blender](https://img.shields.io/badge/Blender-orange?logo=blender&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717?logo=github&logoColor=white)
+
+Check out the repositories, don't forget to give a star! 👇
