@@ -6,9 +6,10 @@ I am a full stack developer who works in a bundle of languages.
   
 ## Socials
 
-<a href="https://x.com/ldmgamingyt" target="blank"><img align="center" style="margin-right:8px" src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" width="30"></a>
-<a href="https://www.youtube.com/@LDM_YT" target="blank"><img align="center" style="margin-right:8px" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png?20220706172052" width="30"></a>
-<a href="https://discord.gg/GsUqxzj" target="blank"><img align="center" style="margin-right:8px" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" width="30"></a>
+<a href="https://x.com/ldmgamingyt" target="blank"><img alt="@ldmgamingyt on 𝕏" src="https://img.shields.io/badge/@ldmgamingyt-black?logo=x&logoColor=white"></a>
+<a href="https://www.youtube.com/@LDM_YT" target="blank"><img alt="@LDM_YT on YouTube" src="https://img.shields.io/badge/@LDM__YT-red?logo=youtube&logoColor=white"></a>
+<a href="https://discord.gg/GsUqxzj" target="blank"><img alt="The LDMVerse on Discord" src="https://img.shields.io/badge/The_LDMVerse-blue?logo=discord&logoColor=white"></a>
+<a href="https://curseforge.com/members/ldmgamingyt/projects"><img alt="LDMGamingYT on CurseForge" src="https://img.shields.io/badge/LDMGamingYT-Minecraft Mods-%23F16436?logo=curseforge&logoColor=white"></a>
   
 ## Languages  
 
