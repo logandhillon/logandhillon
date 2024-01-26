@@ -1,6 +1,8 @@
 # Hi, I'm Logan 👋
 
 I am a full stack developer who works in a bundle of languages.
+
+Right now, I find myself working on a lot of networking and front-end development.
   
 ## Socials
 
