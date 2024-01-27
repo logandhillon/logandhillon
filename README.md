@@ -3,14 +3,16 @@
 I am a full stack developer who works in a bundle of languages.
 
 Right now, I find myself working on a lot of networking and front-end development.
+
+Check out my [website](https://logandhillon.github.io)!
   
-## Socials
+## Connect with me
 
 <a href="https://x.com/ldmgamingyt" target="blank"><img alt="@ldmgamingyt on 𝕏" src="https://img.shields.io/badge/@ldmgamingyt-black?logo=x&logoColor=white"></a>
 <a href="https://www.youtube.com/@LDM_YT" target="blank"><img alt="@LDM_YT on YouTube" src="https://img.shields.io/badge/@LDM__YT-red?logo=youtube&logoColor=white"></a>
 <a href="https://discord.gg/GsUqxzj" target="blank"><img alt="The LDMVerse on Discord" src="https://img.shields.io/badge/The_LDMVerse-blue?logo=discord&logoColor=white"></a>
 <a href="https://curseforge.com/members/ldmgamingyt/projects"><img alt="LDMGamingYT on CurseForge" src="https://img.shields.io/badge/LDMGamingYT-Minecraft Mods-%23F16436?logo=curseforge&logoColor=white"></a>
-<a href="m"><img alt="LDMGamingYT on CurseForge" src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white"></a>
+<a href="mailto:logandhi64@gmail.com"><img alt="Email logandhi64@gmail.com" src="https://img.shields.io/badge/logandhi64@gmail.com-red?logo=gmail&logoColor=white"></a>
   
 ## Languages  
 
