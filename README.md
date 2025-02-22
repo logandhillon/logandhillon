@@ -4,7 +4,7 @@ Full-stack developer, robotics programmer, web developer, team manager, engineer
   
 ## Connect with me
 
-- 📧&emsp;Email me at [logandhi64@gmail.com](mailto:logandhi64@gmail.com)
+- 📧&emsp;Email me at [me@logandhillon.com](mailto:me@logandhillon.com)
 - 🌐&emsp;Check out my website, [logandhillon.com](https://logandhillon.com)
   
 ## Languages & Tools
